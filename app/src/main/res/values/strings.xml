@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTestApplication</string>
+    <string name="secondary_activity">SecondaryActivity</string>
+    <string name="secondary_back">Back</string>
+    <string name="main_next">Next</string>
+    <string name="main_activity">MainActivity</string>
+</resources>
